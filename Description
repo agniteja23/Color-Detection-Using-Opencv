@@ -1,0 +1,4 @@
+This is a project for identifying different colours in an image.
+For this project we used a method based on opencv-python. 
+Just double tap on the the image after compiling the code to get the color in that particualar region.
+Feel free to Suggest any other methods you have for this project.
